@@ -14,7 +14,7 @@ Allow framework agnostic server side libraries to have a common error type while
 
 WebError libraries consist of three products:
 
-- VaporErrorKit - This library
+- `VaporErrorKit` - This library
 - [NIOErrorKit](https://github.com/Einstore/NIOErrorKit) - `WebErrorKit` extended for use with `NIO`
 - [WebErrorKit](https://github.com/Einstore/WebErrorKit) - Base types, protocols and tools; to be used in libraries
 
